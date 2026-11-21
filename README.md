@@ -16,7 +16,7 @@ The program takes your message, sends it to the Gemini API, and prints the AI's 
 
 ## Example
 You: Hello, who are you?
-Bot: (paste the reply your chatbot gave you)
+Bot:  Hello! I am a large language model trained by Google.
 
 Type `quit` to exit.
 
